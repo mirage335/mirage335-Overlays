@@ -1,0 +1,20 @@
+<!--  Example: http://www.gentoo.org/proj/en/overlays/repositories.xml -->
+
+<repositories xmlns="" version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>
+		<![CDATA[ BaseEbuilds-mirage335 ]]>
+		</name>
+		<description lang="en">
+		<![CDATA[ Provides basic resources for power users with modern laptops using Gentoo/Funtoo. ]]>
+		</description>
+		<homepage>mirage335.dyndns.org</homepage>
+		<owner type="person">
+		<email>spamfreemirage335@gmail.com</email>
+		<name>
+		<![CDATA[ mirage335 ]]>
+		</name>
+		</owner>
+		<source type="git">git://github.com/mirage335/BaseEbuilds-mirage335.git</source>
+	</repo>
+</repositories>
